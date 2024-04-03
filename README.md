@@ -1,5 +1,5 @@
-# my-tiff-4.5.0
-GNU Emacs30.0.50に含まれる`java/INSTALL`にしたがって取得したmy-tiff-4.5.0モジュールのレポジトリ。
+# tiff-4.5.0
+GNU Emacs30.0.50に含まれる`java/INSTALL`にしたがって取得したtiff-4.5.0モジュールのレポジトリ。
 
 # 作成した手順
 
